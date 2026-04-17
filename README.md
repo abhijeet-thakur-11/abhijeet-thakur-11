@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abhijeet.
+I# Hi there 👋 I'm Abhijeet.
 
 ## 💫 About Me:
 🔭 I’m a CS sophomore with specialisation in Data Science<br>🚀Milestones : 1x Hackathon Winner, 6x Hackathon Finalist<br>👯 I’m currently learning Machine Learning with a knack of Full Stack Dev<br>🤝 Open to connect if you have something fun for me <br>🌱 I’m looking for great projects, hackathons and fun geek events<br>💬 Ask me about Why my code works only after adding a random comment.<br>⚡ Fun fact : Im GREAT at Vibe Coding (Hail, Antigravity/Claude!)
@@ -32,5 +32,3 @@
 </td>
 </tr>
 </table><br>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
